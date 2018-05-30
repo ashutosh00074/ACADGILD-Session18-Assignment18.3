@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Inbox Style Notification</string>
+    <string name="inbox_activity">INBOX</string>
+    <string name="reply_activity">REPLY</string>
+    <string name="effect_button">Background Effect Button</string>
+    <string name="reply">This is the reply activity</string>
+    <string name="inbox">Session : Google Maps, GPS and Project II for Android Developer Training Course</string>
+    <string name="txt">Open Notification</string>
+    <string name="reply_txt">Reply Activity</string>
+</resources>
